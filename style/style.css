@@ -147,9 +147,7 @@ li{
     margin: 10px;
     line-height: 1;
 }
-@media screen {
-    
-}
+
 @media  screen and (max-width:990px) {
     .info{
         display: flex;
